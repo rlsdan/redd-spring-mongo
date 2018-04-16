@@ -1,0 +1,5 @@
+#surefire
+#Mon Aug 13 14:05:38 PHT 2012
+user.dir=/usr/workspace/darryl-spring-mongo
+localRepository=/root/.m2/repository
+basedir=/usr/workspace/darryl-spring-mongo
